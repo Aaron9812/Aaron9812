@@ -1,5 +1,6 @@
 ## Hi, I’m @Aaron9812 👋 
 -  I’m interested in Computer Science
+-  PhD student at the University of Mannheim
 -  M.Sc. Data Science at the University of Mannheim
 ***
 
