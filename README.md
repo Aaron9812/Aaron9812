@@ -50,7 +50,7 @@
 -   **WebMall**: A Multi-Shop Benchmark for Evaluating Web Agents
     -   A comprehensive benchmark for evaluating web agents' capabilities in finding and comparing product offers across multiple e-shops
     -   Features both basic tasks (searching, comparing offers, cart management) and advanced tasks (vague requirements, compatible products)
-    -   [Project Website](https://webmall-benchmark.github.io/)
+    -   [Project Website]([https://webmall-benchmark.github.io/](https://wbsg-uni-mannheim.github.io/WebMall/))
 -   Entity Matching using Large Language Models
 -   Autonomous Agent Systems Development
 
